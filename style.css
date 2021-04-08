@@ -1,0 +1,41 @@
+.main{
+    border: 2px solid black;
+    width: 112px;
+    display: block;
+    margin: auto;
+}
+
+.input{
+    width: 105px;
+    background-color: lightgray;
+    color: white;
+}
+.top{
+    width: 34px;
+    background-color: black;
+    color: white;
+}
+.top:hover{
+    background-color: grey;
+}
+.right{
+    width: 35px;
+    background-color: black;
+    color: white;
+}
+.right:hover{
+    background-color: grey;
+}
+.btn{
+    width: 21px;
+    background-color: black;
+    color: white;
+}
+.btn:hover{
+    background-color: grey;
+}
+.dif{
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-bottom: 1px;
+}
